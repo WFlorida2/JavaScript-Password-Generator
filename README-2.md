@@ -1,3 +1,5 @@
+# JavaScript-Password-Generator
+
 The web app should do the following:
 - Once displayed, Click on ‘Generate a password button,
 - The first prompt “ Input Password length: must be between 8 and 128 characters”
