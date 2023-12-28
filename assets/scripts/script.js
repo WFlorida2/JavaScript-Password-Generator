@@ -31,9 +31,9 @@ function getRandom(arr)
 // Function to generate password with user input
 function generatePassword() 
 {
-  instructions = alert ("Hello, you will be presented with a series of choices to generate a password as per your preferences.");
+  instructions = alert ("Hello, you will be presented with a series of choices \nto generate a password as per your preferences.");
 
-  const maxAttempts = 5;
+  const maxAttempts = 2;
 
   for (let attempt = 1; attempt <= maxAttempts; attempt++) 
     {
@@ -42,55 +42,60 @@ function generatePassword()
     const num = Number(userInput);
 
     if (!isNaN(num) && num >= 8 && num <= 128) 
+    {} else 
     {
-        // alert("next prompt goes here");
-        break;  // Exit the loop
-    } else 
-    {
-        alert("You entered an invalid number, Please try again by entering only numbers between 8 & 128");
+        alert("You did not input a number or entered an invalid number, \nPlease try again by entering only numbers between 8 & 128");
     }
 
     if (attempt === maxAttempts) 
     {
-        alert("Maximum attempts of 5 tries reached. Please try again.");
+        // alert("Maximum attempts of 2 tries reached. Please try again.");
+        return "Maximum attempts of 2 tries reached. Please try again.";
         break;  // Exit the loop after the final attempt
     }
-    }
-
-    var characters = "";
-    if (confirm ("Please click ‘OK’ if you prefer special characters \nsuch as $ @ % & * ,etc."))
-    {
-      console.log("User wants special Chars");
-    } else 
-    {
-      console.log("No special characters");
-    }
-
-    if (confirm (" Please click ‘OK’ if you prefer Numeric"))
-    {
-      console.log("User wants numeric Chars");
-    } else 
-    {
-      console.log("No numeric characters");
-    }
-
-    if (confirm (" Please click ‘OK’ if you prefer Lowercase"))
-    {
-      console.log("User wants lowercase Chars");
-    } else 
-    {
-      console.log("No lowercase characters");
-    }
-
-    if (confirm (" Please click ‘OK’ if you prefer Uppercase"))
-    {
-      console.log("User wants uppercase Chars");
-    } else 
-    {
-      console.log("No uppercase characters");
-    }
     
-}
+    }
+  }
+
+
+
+
+
+
+
+    // if (confirm ("Please click ‘OK’ if you prefer special characters \nsuch as $ @ % & * ,etc."))
+    // {
+    //   // console.log("User wants special Chars");
+    // } else 
+    // {
+    //   // console.log("No special characters");
+    // }
+
+    // if (confirm (" Please click ‘OK’ if you prefer Numeric"))
+    // {
+    //   // console.log("User wants numeric Chars");
+    // } else 
+    // {
+    //   // console.log("No numeric characters");
+    // }
+
+    // if (confirm (" Please click ‘OK’ if you prefer Lowercase"))
+    // {
+    //   // console.log("User wants lowercase Chars");
+    // } else 
+    // {
+    //   // console.log("No lowercase characters");
+    // }
+
+    // if (confirm (" Please click ‘OK’ if you prefer Uppercase"))
+    // {
+    //   // console.log("User wants uppercase Chars");
+    // } else 
+    // {
+    //   // console.log("No uppercase characters");
+    // }
+
+// }
 
 
 
