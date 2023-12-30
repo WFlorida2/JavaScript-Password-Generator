@@ -31,7 +31,8 @@ Once accessed, follow the on-screen instruction to see the result on the screen.
 3- once validation process are complete then generate random password.  
 4- Disply the random password so the user has the ability to copy it.  
 
-## Application snapshots:
+## Application snapshots:  
+![Snapshots of HLFD](./assets/HighLevelDesign/High%20level%20functional%20design.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.09.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.26.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.50.png)  
