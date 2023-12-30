@@ -27,8 +27,8 @@ Once accessed, follow the on-screen instruction to see the result on the screen.
 ## Pseudocode:
 
 1- Prompt the user with instructions on how to select a generated password with specific criterias.  
-2- present a series of choices between different typs of characters.  
-3- once validation process are complete then generate random password.  
+2- Present a series of choices between different typs of characters.  
+3- Once validation process are complete then generate random password.  
 4- Disply the random password so the user has the ability to copy it.  
 
 ## Application snapshots:  
