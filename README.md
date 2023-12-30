@@ -10,11 +10,6 @@ The web app should do the following:
 3- once validation process are complete then generate random password.  
 4- Disply the random password so the user has the ability to copy it.  
 
-
-## Application video 
-![Watch the video](./assets/images/Screenshot%202023-12-30%20at%2015.18.09.png)](./assets/videos/(URL_of_Image)](URL_of_Video))
-
-
 ## Application snapshots
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.09.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.26.png)  
@@ -27,5 +22,5 @@ The web app should do the following:
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.20.08.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.20.18.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.22.46.png)  
- 
+
 
