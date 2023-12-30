@@ -3,14 +3,35 @@
 The web app should do the following:
 - Clicking on ‘Generate Password' button will generate a random password according to certain criteria set by the user.    
 
-# Pseudocode:
+## ## Languages used:
+• HTML • JavaScript • CSS
+
+Wireframe tool used:
+• drawio
+
+## Resources:
+• W3School • ChatGPT • Xpert Learning Assistant • Google search engines • Classes recordings, activities and notes
+
+## Installation:
+• To access the webpage, the following URL should be used: https://wflorida2.github.io/JavaScript-Password-Generator/  
+Once accessed, navigate to Inspect to see the result on the screen.
+• To find out how to do access the console tab, please type in the following ‘How to see a console for a page in a browser’ in a google search engine or any other search engines available to you.
+• As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: "https://github.com/WFlorida2/JavaScript-Password-Generator"  
+
+## CREDITS:
+• Credit to Sebastian,on the Discord group of helping each other’s out with couple of issues.  
+• https://chat.openai.com/  
+• Xpert Learning Assistant  
+• W3School  
+
+## Pseudocode:
 
 1- Prompt the user with instructions on how to select a generated password with specific criterias.  
 2- present a series of choices between different typs of characters.  
 3- once validation process are complete then generate random password.  
 4- Disply the random password so the user has the ability to copy it.  
 
-## Application snapshots
+## Application snapshots:
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.09.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.26.png)  
 ![Snapshots of applicaion](./assets/images/Screenshot%202023-12-30%20at%2015.18.50.png)  
