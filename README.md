@@ -14,8 +14,8 @@ Wireframe tool used:
 
 ## Installation:
 • To access the webpage, the following URL should be used: https://wflorida2.github.io/JavaScript-Password-Generator/  
-Once accessed, navigate to Inspect to see the result on the screen.
-• To find out how to do access the console tab, please type in the following ‘How to see a console for a page in a browser’ in a google search engine or any other search engines available to you.
+Once accessed, follow the on-screen instruction to see the result on the screen.
+
 • As a developer who wishes to access the back-end files for this page, you will need to access GitHub to be able to open the repo via the following link: "https://github.com/WFlorida2/JavaScript-Password-Generator"  
 
 ## CREDITS:
